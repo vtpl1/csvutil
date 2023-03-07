@@ -1,0 +1,6 @@
+{
+  "name": "csvutil",
+  "version": "1.0.0",
+  "description": "A simple wrapper of Poco Environment",
+  "homepage": "https://github.com/vtpl1/csvutil"
+}
